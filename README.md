@@ -1,8 +1,17 @@
 # Pizza-Restaurant-Automation
 INTRODUCTION / AIM
+
 The aim of this experiment is to introduce you object-oriented programming and design with Java. You will learn the structure of a class, how classes interact, inheritance and polymorphism and basic input-output operations in Java. There will be two main parts to this assignment. One part consists of creating the system’s input-output interface and implementing the logic for this interaction. The other part is defining (and implementing) the persistence backend (i.e. how we store and retrieve the information our system uses). You should also use decorator design pattern in first part of the experiment. Your homework will take commands from an input file then it will print the results of these commands to an output file. You should use Data Access Objects (DAO) to manage your data.
-Decorator Pattern:
-The Java language provides the keyword extends for subclassing a class. Those with enough knowledge of object-oriented programming know how powerful subclassing, or extending a class. By extending a class, you can change its behavior. The Decorator Pattern is used for adding additional functionality to a particular object as opposed to a class of objects. With the Decorator Pattern, you can add functionality to a single object and leave others like it unmodified. Any calls that the decorator gets, it relays to the object that it contains, and adds its own functionality along the way, either before or after the call. This gives you a lot of flexibility since you can change what the decorator does at runtime, as opposed to having the change be static and determined at compile time by subclassing. Since a Decorator complies with the interface that the object that it contains, the Decorator is indistinguishable from the object that it contains. That is, a Decorator is a concrete instance of the abstract class, and thus is indistinguishable from any other concrete instance, including other decorators. This can be used to great advantage, as you can recursively nest decorators without any other objects being able to tell the difference, allowing a near infinite amount of customization.
-Decorators add the ability to dynamically alter the behavior of an object because a decorator can be added or removed from an object without the client realizing that anything changed. It is a good idea to use a Decorator in a situation where you want to change the behavior of an object repeatedly (by adding and subtracting functionality) during runtime.
+
+
+javac Main.java java Main input.txt customer.txt order.txt
+
+ INPUT
+
+The paths of the input files will be provided as command line arguments in the order of
+
+<input.txt><customer.txt><order.txt>
+
+ OUTPUT The program automatically creates the output file <output.txt>
 
 
