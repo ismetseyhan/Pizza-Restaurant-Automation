@@ -1,0 +1,55 @@
+Bu müsteri zaten mevcut CID=33
+Bu müsteri zaten mevcut CID=88
+Silmek istediginiz müsteri zaten ekli degil RID=46
+Order 7 created
+AmericanPan pizza added to order 7
+Neapolitan pizza added to order 7
+Drink added to order 7
+PayCheck for order 7
+	AmericanPan HotPepper Soudjouk 9$
+	Neapolitan HotPepper Onion 13$
+	AmericanPan HotPepper Soudjouk 9$
+	Neapolitan HotPepper Onion 13$
+	AmericanPan HotPepper Soudjouk 9$
+	Neapolitan HotPepper Onion 13$
+	SoftDrink 1$
+	SoftDrink 1$
+	SoftDrink 1$
+	Total: 69$
+PayCheck for order 7
+	Total: 0$
+PayCheck for order 7
+	Total: 0$
+Order 8 created
+AmericanPan pizza added to order 8
+PayCheck for order 8
+	AmericanPan Soudjouk 8$
+	AmericanPan Soudjouk 8$
+	AmericanPan Soudjouk 8$
+	Total: 24$
+PayCheck for order 8
+	Total: 0$
+PayCheck for order 8
+	Total: 0$
+Order 10 created
+Neapolitan pizza added to order 10
+PayCheck for order 10
+	Neapolitan 10$
+	Neapolitan 10$
+	Neapolitan 10$
+	Total: 30$
+PayCheck for order 10
+	Total: 0$
+PayCheck for order 10
+	Total: 0$
+Customer List:
+45 Arif Susam 563-95632569 Adress: Balgat 1321 cd. 12/5
+88 Berdan Mardini 568-8964142 Bilkent 32 cd. 72/3
+9 Ebru Gundes 312-4567890 Address: Maltepe 21 sk. 23/7
+33 Hakan Altun 234-5677896 Ayranci 10. sok. 30/10
+5 Hakki Bulut 536-8967812 Address: Tandogan 34 sk. 56/3
+42 Ismail Yeka 535-8969746 Address: Cebeci 56 cd. 34/5
+50 Mahmut Tuncer 654-2122121 Adress: Emek 19 sk. 12/5
+12 Orhan Gencebay 256-3456789 Address: Eryaman 3. Etap 12/7
+35 Umit Besen 236-3446789 Address: Dikmen 4. Cadde 34/2
+23 Zerrin Ozer 234-3456789 Address: Hacettepe University Department of Matemathics
